@@ -87,12 +87,11 @@ Open to collaboration, learning, and tech conversations. Let's Connect!! 💫
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,sklearn,js,html,css,react,nodejs,express,firebase,mysql,git,github,vscode,vite&perline=8)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sneha-0409&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://streak-stats.demolab.com?user=Sneha-0409&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-0409&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" />
 </p>
