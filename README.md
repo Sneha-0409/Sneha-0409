@@ -92,8 +92,9 @@ Open to collaboration, learning, and tech conversations. Let's Connect!! 💫
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sneha-0409&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-0409&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-0409&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
