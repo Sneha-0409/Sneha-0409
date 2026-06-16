@@ -36,18 +36,19 @@ const sneha = {
     secretary: "IEEE RAS SBC MITS-DU",
     Member: "IEEE SAC MP-Section",
     Apprenticeship: "McKinsey Forward Program",
+    Virtual Internship: "AI/ML Google Developers Group via Eduskills"
     Core Member: "Google Developers Group",
   },
 
   Projects: [
-    "Zeroly",
+    "CineMatch-AI: Intelligent Movie Recommendation System",
     "CampusImpact-DAO",
-    "Face Attendance System"
+    "Development of Department Report & Analytics System"
   ],
 
   OpenSourceContributor: [ 
      "GSSoC'25'26",
-     "NSoC'26",
+     "NSoC'26 - Secured 21st Position among 980+ contributors",
      "SSOC'26"
 ],
   funFact:
