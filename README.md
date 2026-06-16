@@ -109,18 +109,18 @@ Open to collaboration, learning, and tech conversations. Let's Connect!! 💫
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📊 GitHub Streak
+## 📊 GitHub Profile
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sneha-0409&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-0409&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sneha-0409&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-0409&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-  
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sneha-0409&theme=tokyonight&no-frame=true&row=1&column=6" />
