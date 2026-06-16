@@ -49,7 +49,8 @@ const sneha = {
 
   OpenSourceContributor: [ 
      "GSSoC'25'26",
-     "NSoC'26 - Secured 21st Position among 980+ contributors",
+     "NSoC'26 - Secured 21st rank-"
+     "among 980+ contributors",
      "SSOC'26"
 ],
   funFact:
@@ -60,7 +61,7 @@ const sneha = {
 
 </td>
 
-<td width="30%">
+<td width="20%">
 
 <img width="420"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsdzFqZnRod2JuNDQ3NGszMzhrdXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -115,7 +116,14 @@ Open to collaboration, learning, and tech conversations. Let's Connect!! 💫
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-0409&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-0409&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+  
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sneha-0409&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
