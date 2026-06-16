@@ -61,7 +61,7 @@ const sneha = {
 
 </td>
 
-<td width="20%">
+<td width="15%">
 
 <img width="420"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsdzFqZnRod2JuNDQ3NGszMzhrdXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
