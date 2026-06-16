@@ -36,7 +36,8 @@ const sneha = {
     secretary: "IEEE RAS SBC MITS-DU",
     Member: "IEEE SAC MP-Section",
     Apprenticeship: "McKinsey Forward Program",
-    Virtual Internship: "AI/ML Google Developers Group via Eduskills",
+    Virtual Internship: "AI/ML Google Developers Group
+    via Eduskills",
     Core Member: "Google Developers Group",
   },
 
