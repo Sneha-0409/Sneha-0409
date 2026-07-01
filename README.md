@@ -42,7 +42,7 @@ const sneha = {
   },
 
   Projects: [
-    "KrihiRakshak-AI",
+    "KrishiRakshak-AI",
     "Personal-Portfolio",
     "CineMatch-AI: Intelligent Movie Recommendation System",
     "CampusImpact-DAO",
