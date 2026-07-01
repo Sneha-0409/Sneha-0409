@@ -6,7 +6,7 @@ Computer Science Student • Developer • Problem Solver • Tech Community Lea
 </h3>
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=500&size=23&pause=950&color=C8005C&background=05049F8A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;DSA%2FC%2B%2B;Python;Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=500&size=23&pause=950&color=C8005C&background=05049F8A&center=true&vCenter=true&width=435&lines=Web+Developer;AI%2FML+Enthusiast;DSA%2FC%2B%2B;Python;Data+Science" alt="Typing SVG" />
 </a>
 
 
@@ -28,7 +28,7 @@ const sneha = {
   interests: [
     "Machine Learning",
     "DSA",
-    "Full Stack Development",
+    "Web Development",
     "Research"
   ],
 
