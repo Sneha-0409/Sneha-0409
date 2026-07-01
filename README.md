@@ -42,6 +42,8 @@ const sneha = {
   },
 
   Projects: [
+    "KrihiRakshak-AI",
+    "Persoanl-Portfolio",
     "CineMatch-AI: Intelligent Movie Recommendation System",
     "CampusImpact-DAO",
     "Development of Department Report & Analytics System"
@@ -50,7 +52,7 @@ const sneha = {
   OpenSourceContributor: [ 
      "GSSoC'25'26",
      "NSoC'26 - Secured 21st rank-"
-     "among 980+ contributors",
+     "among 990+ contributors",
      "SSOC'26"
 ],
   funFact:
