@@ -72,6 +72,30 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 </tr>
 </table>
 
+## Featured Projects 👩‍💻
+
+<table>
+
+<tr>
+<td><strong> <a href="krishi-rakshak-ai-9l41.vercel.app/">KrishiRakshak AI ↗</a></strong></td>
+<td>AI-powered plant disease detection and recommendation system built with TensorFlow, FastAPI, Streamlit, and Google Gemini API.</td>
+</tr>
+
+<tr>
+<td><strong> <a href="instireport.web.app/">InstiReport ↗</a></strong></td>
+<td>Department report management system with role-based dashboards, analytics, and automated PDF generation.</td>
+</tr>
+
+<tr>
+<td><strong> <a href="campusimpact-dao-faly.vercel.app">CampusImpact DAO ↗</a></strong></td>
+<td>Blockchain-powered student innovation funding and voting platform using React, Supabase, Polygon, and smart contracts.</td>
+</tr>
+
+<tr>
+<td><strong> <a href="cinematch-ai-movie.streamlit.app">CineMatch AI ↗</a></strong></td>
+<td>Movie recommendation engine using cosine similarity, the TMDB dataset, and an intuitive Streamlit interface.</td>
+</tr>
+
 ## Connect With Me!!
 Open to collaboration, learning, and tech conversations. Let's Connect!! 💫
 <p align="left">
