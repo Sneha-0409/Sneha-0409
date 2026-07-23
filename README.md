@@ -86,8 +86,13 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 </tr>
 
 <tr>
-<td><strong> <a href="(https://credit-card-fraud-detection-uf9u.vercel.app/)">Credit-Card-Fraud-Detection ↗</a></strong></td>
+<td><strong> <a href="https://credit-card-fraud-detection-uf9u.vercel.app/">Credit-Card-Fraud-Detection ↗</a></strong></td>
 <td>A machine learning project for detecting fraudulent credit card transactions using the Gradient Boosting Classifier.</td>
+</tr>
+
+<tr>
+<td><strong> <a href="https://sales-forecasting-system-numxyvshfemjrwleaejfuv.streamlit.app/">Sales-Forecasting-System ↗</a></strong></td>
+<td>A retail sales analytics project leveraging machine learning and time series forecasting to optimize inventory management, identify demand patterns, and generate business insights.</td>
 </tr>
 
 <tr>
