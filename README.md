@@ -45,6 +45,8 @@ const sneha = {
   Projects: [
     "KrishiRakshak-AI",
     "Personal-Portfolio",
+    "Sales-Forecasting-System",
+    "Credit-Card-Fraud-Detection",
     "CineMatch-AI: Intelligent Movie Recommendation System",
     "CampusImpact-DAO",
     "Development of Department Report & Analytics System"
