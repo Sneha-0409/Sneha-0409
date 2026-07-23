@@ -86,6 +86,11 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 </tr>
 
 <tr>
+<td><strong> <a href="(https://credit-card-fraud-detection-uf9u.vercel.app/)">Credit-Card-Fraud-Detection ↗</a></strong></td>
+<td>A machine learning project for detecting fraudulent credit card transactions using the Gradient Boosting Classifier.</td>
+</tr>
+
+<tr>
 <td><strong> <a href="https://campusimpact.vercel.app">CampusImpact DAO ↗</a></strong></td>
 <td>Blockchain-powered student innovation funding and voting platform using React, Supabase, Polygon, and smart contracts.</td>
 </tr>
