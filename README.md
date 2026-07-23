@@ -33,6 +33,7 @@ const sneha = {
   ],
 
   organizations: {
+    AI & Data Science Intern: "XYlofy-AI"
     secretary: "IEEE RAS SBC MITS-DU",
     Member: "IEEE SAC MP-Section",
     Apprenticeship: "McKinsey Forward Program",
